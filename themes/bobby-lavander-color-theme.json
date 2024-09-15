@@ -1,9 +1,9 @@
 {
   "name": "bobby-lavander",
   "colors": {
-    // "activityBar.background": "#f7f4fa",
-    // "activityBar.foreground": "#705697",
-    // "activityBarBadge.background": "#705697",
+    "activityBar.background": "#f7f4fa",
+    "activityBar.foreground": "#705697",
+    "activityBarBadge.background": "#705697",
     "badge.background": "#705697aa",
     "badge.foreground": "#f2f2f2",
     "button.background": "#9d87bf",
@@ -23,7 +23,8 @@
     "statusBarItem.remoteForeground": "#222222",
     "statusBarItem.remoteBackground": "#a2e5b4",
     "statusBarItem.remoteHoverForeground": "#222222",
-    "progressBar.background": "#705697"
+    "progressBar.background": "#705697",
+    "welcomePage.progress.foreground": "#705697",
   },
   "tokenColors": [
     {
