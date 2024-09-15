@@ -25,6 +25,15 @@
     "statusBarItem.remoteHoverForeground": "#222222",
     "progressBar.background": "#705697",
     "welcomePage.progress.foreground": "#705697",
+    "textLink.foreground": "#705697",
+    "textLink.activeForeground": "#977ebc",
+    "list.activeSelectionBackground": "#977ebc",
+    "list.hoverBackground": "#a2e5b4",
+    "list.highlightForeground": "#ee8f4a",
+    "pickerGroup.foreground": "#977ebc",
+    "keybindingLabel.border": "#eae7ef",
+    "keybindingLabel.bottomBorder": "#ccbee1",
+    "focusBorder": "#977ebc"
   },
   "tokenColors": [
     {
