@@ -1,10 +1,11 @@
 {
   "name": "bobby-lavander",
   "displayName": "bobby-lavander",
-  "description": "",
-  "version": "0.0.1",
+  "description": "bobby-lavander color theme",
+  "repository": "https://github.com/bobbywan14/bobby-lavendar-color-theme",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +18,6 @@
         "path": "./themes/bobby-lavander-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "bobbywan14"
 }
