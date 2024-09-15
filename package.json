@@ -1,0 +1,21 @@
+{
+  "name": "bobby-lavander",
+  "displayName": "bobby-lavander",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bobby-lavander",
+        "uiTheme": "vs",
+        "path": "./themes/bobby-lavander-color-theme.json"
+      }
+    ]
+  }
+}
