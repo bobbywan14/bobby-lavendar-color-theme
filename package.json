@@ -3,7 +3,7 @@
   "displayName": "bobby-lavander",
   "description": "bobby-lavander color theme",
   "repository": "https://github.com/bobbywan14/bobby-lavendar-color-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.0.0"
   },
